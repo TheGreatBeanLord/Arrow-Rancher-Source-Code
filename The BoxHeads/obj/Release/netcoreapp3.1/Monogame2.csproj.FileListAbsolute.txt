@@ -1,0 +1,33 @@
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\Content\1x1_#190000ff.xnb
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\Content\blackPixel.xnb
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\Content\circle.xnb
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\Content\myFont.xnb
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\Content\myFont2.xnb
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\Content\PlayerPlaceHolder.xnb
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\Content\red arrow.xnb
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\Content\redArrow.xnb
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\Content\redArrow2.xnb
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\Content\white square.xnb
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\Monogame2.exe
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\Monogame2.deps.json
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\Monogame2.runtimeconfig.json
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\Monogame2.runtimeconfig.dev.json
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\Monogame2.dll
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\Monogame2.pdb
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\MonoGame.Framework.dll
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+E:\Monogame\The BoxHeads\bin\Release\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+E:\Monogame\The BoxHeads\obj\Release\netcoreapp3.1\Monogame2.csprojAssemblyReference.cache
+E:\Monogame\The BoxHeads\obj\Release\netcoreapp3.1\Monogame2.AssemblyInfoInputs.cache
+E:\Monogame\The BoxHeads\obj\Release\netcoreapp3.1\Monogame2.AssemblyInfo.cs
+E:\Monogame\The BoxHeads\obj\Release\netcoreapp3.1\Monogame2.csproj.CoreCompileInputs.cache
+E:\Monogame\The BoxHeads\obj\Release\netcoreapp3.1\Monogame2.csproj.CopyComplete
+E:\Monogame\The BoxHeads\obj\Release\netcoreapp3.1\Monogame2.dll
+E:\Monogame\The BoxHeads\obj\Release\netcoreapp3.1\Monogame2.pdb
+E:\Monogame\The BoxHeads\obj\Release\netcoreapp3.1\Monogame2.genruntimeconfig.cache

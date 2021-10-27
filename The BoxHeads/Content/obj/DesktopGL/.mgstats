@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/arcan/Downloads/blackPixel.png","E:/Monogame/The BoxHeads/Content/bin/DesktopGL/blackPixel.xnb","TextureProcessor","Texture2DContent",83,89,0.1264516
+"E:/Monogame/The BoxHeads/Content/circle.png","E:/Monogame/The BoxHeads/Content/bin/DesktopGL/circle.xnb","TextureProcessor","Texture2DContent",10094,3240085,0.3957891
+"E:/Monogame/The BoxHeads/Content/myFont.spritefont","E:/Monogame/The BoxHeads/Content/bin/DesktopGL/myFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70690,0.2874316
+"E:/Monogame/The BoxHeads/Content/myFont2.spritefont","E:/Monogame/The BoxHeads/Content/bin/DesktopGL/myFont2.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.015898
+"E:/Monogame/The BoxHeads/Content/PlayerPlaceHolder.png","E:/Monogame/The BoxHeads/Content/bin/DesktopGL/PlayerPlaceHolder.xnb","TextureProcessor","Texture2DContent",480,202585,0.0113638
+"E:/Monogame/The BoxHeads/Content/redArrow.png","E:/Monogame/The BoxHeads/Content/bin/DesktopGL/redArrow.xnb","TextureProcessor","Texture2DContent",28537,5760085,0.2124026
+"E:/Monogame/The BoxHeads/Content/redArrow2.png","E:/Monogame/The BoxHeads/Content/bin/DesktopGL/redArrow2.xnb","TextureProcessor","Texture2DContent",33559,5760085,0.1738437
+"E:/Monogame/The BoxHeads/Content/white square.jpg","E:/Monogame/The BoxHeads/Content/bin/DesktopGL/white square.xnb","TextureProcessor","Texture2DContent",13265,3240085,0.0967415

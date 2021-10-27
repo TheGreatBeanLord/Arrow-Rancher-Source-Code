@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/arcan/Downloads/blackPixel.png</File>
+    <File>E:/Monogame/The BoxHeads/Content/circle.png</File>
+    <File>E:/Monogame/The BoxHeads/Content/myFont.spritefont</File>
+    <File>E:/Monogame/The BoxHeads/Content/myFont2.spritefont</File>
+    <File>E:/Monogame/The BoxHeads/Content/PlayerPlaceHolder.png</File>
+    <File>E:/Monogame/The BoxHeads/Content/redArrow.png</File>
+    <File>E:/Monogame/The BoxHeads/Content/redArrow2.png</File>
+    <File>E:/Monogame/The BoxHeads/Content/white square.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>blackPixel.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
